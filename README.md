@@ -116,13 +116,13 @@ The project includes an interactive Power BI dashboard with multiple analysis pa
 Superstore-Sales-Analysis/
 │
 ├── Dataset/
-│   └── superstore_cleaned.csv
+│   └── superstore.csv
 │
 ├── SQL/
 │   └── superstore_analysis.sql
 │
 ├── PowerBI/
-│   └── superstore_dashboard.pbix
+│   └── E-commerce Analysis.pbix
 │
 ├── Images/
 │   ├── executive_overview.png
