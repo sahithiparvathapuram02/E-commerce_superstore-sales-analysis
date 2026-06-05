@@ -147,3 +147,5 @@ This project helped strengthen practical skills in:
 The analysis provides valuable insights into sales performance, customer trends, product profitability, and operational efficiency for an E-Commerce business.
 
 ---
+# Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNjAxZDFlZWItYmRiZi00OGE1LTg2YzQtMzJhYzE4MDQxNGYyIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
